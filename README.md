@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Psychological Profile Dashboard  
+# 🧠 AI-Powered Psychological Profile Analyzer from Chat History
 
 🚀 An advanced AI-driven application that analyzes chat logs to generate deep psychological insights.  
 Utilizing LLMs, Sentiment Analysis, and the Big Five Personality Model, this project identifies personality traits, emotional trends, and communication patterns from platforms like WhatsApp, Discord, and Slack.  
@@ -69,9 +69,9 @@ The UI will be available at http://localhost:3000.
 ---
 
 ## 📝 To-Do & Future Enhancements  
-- [ ] **Support for more languages & chat formats  
-- [ ] **AI-driven predictive analysis for mental well-being  
-- [ ] **User authentication for secure access
+- [ ] Support for more languages & chat formats  
+- [ ] AI-driven predictive analysis for mental well-being  
+- [ ] User authentication for secure access
 
 ---
 
